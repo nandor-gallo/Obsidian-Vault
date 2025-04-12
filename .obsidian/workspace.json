@@ -11,10 +11,14 @@
             "id": "71093600c3bdcf7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -163,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71093600c3bdcf7e",
+  "active": "b35b2d135a89e3b1",
   "lastOpenFiles": [
     "COMPUTER SCIENCE LEARNING.md",
     "Markdown Reference.md",

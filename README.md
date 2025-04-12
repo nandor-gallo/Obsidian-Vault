@@ -20,13 +20,7 @@ This repository contains notes on the following subjects:
 - CS Development
 	- Terminal Use
 	- GitHub
-    
-- Subject 2
-    
-- Subject 3
-    
-- ...
-    
+
 
 Each subject is organized into its own folder, where notes are stored in individual files. You can navigate through the subjects to explore the content and learn from the material I’ve gathered.
 
