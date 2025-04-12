@@ -1,1 +1,1 @@
-[[Github CLI]]
+[[Gh CLI]]

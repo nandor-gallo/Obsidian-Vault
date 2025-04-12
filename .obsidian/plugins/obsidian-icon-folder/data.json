@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBackpack",
+      "LiAArrowUp",
+      "LiNewspaper",
+      "LiKeyboard",
+      "LiLink"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Markdown Reference.md": "LiBookOpen",
+  "README.md": "LiBookA",
+  "COMPUTER SCIENCE LEARNING.md": "LiFolderRoot",
+  "CS Development/Github": "LiGithub",
+  "CS Development/Software Development": {
+    "iconName": "LiActivity",
+    "iconColor": "#c11a1a"
+  },
+  "CS Development/Terminal Use": "LiTerminal",
+  "CS Development/Software Development.md": "LiLink",
+  "CS Development/Github/Github.md": "LiLink",
+  "MACOS/MacOS.md": "LiLink",
+  "MACOS/Mac Hot-Keys For Certain Functions.md": "LiKeyboard",
+  "MACOS/Mac VS-Code Hot-Keys.md": "LiAArrowUp",
+  "MACOS": "LiNewspaper",
+  "CS Development": "LiBackpack"
+}
