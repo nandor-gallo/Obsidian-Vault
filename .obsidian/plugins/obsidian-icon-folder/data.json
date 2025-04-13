@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiALargeSmall",
+      "LiAArrowDown",
       "LiBackpack",
       "LiAArrowUp",
-      "LiNewspaper",
-      "LiKeyboard",
-      "LiLink"
+      "LiNewspaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,6 @@
   },
   "Markdown Reference.md": "LiBookOpen",
   "README.md": "LiBookA",
-  "COMPUTER SCIENCE LEARNING.md": "LiFolderRoot",
   "CS Development/Github": "LiGithub",
   "CS Development/Software Development": {
     "iconName": "LiActivity",
@@ -49,5 +48,7 @@
   "MACOS/Mac Hot-Keys For Certain Functions.md": "LiKeyboard",
   "MACOS/Mac VS-Code Hot-Keys.md": "LiAArrowUp",
   "MACOS": "LiNewspaper",
-  "CS Development": "LiBackpack"
+  "CS Development": "LiBackpack",
+  "CS Development/Regex/Regex.md": "LiAArrowDown",
+  "CS Development/Regex": "LiALargeSmall"
 }
