@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f45965f362d9ef2c",
+        "id": "525c007de1b10011",
         "type": "tabs",
         "children": [
           {
-            "id": "71093600c3bdcf7e",
+            "id": "1eefcd36bc091e98",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -163,13 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71093600c3bdcf7e",
+  "active": "1eefcd36bc091e98",
   "lastOpenFiles": [
+    "CS Development/Software Development/Visual Studio Code/Project setup in VSCode with venv.md",
+    "README.md",
     "CS Development/Regex/Regex.md",
     "Clippings/ChatGPT.md",
     "COMPUTER SCIENCE LEARNING.md",
     "CS Development/Regex",
-    "README.md",
     "Markdown Reference.md",
     "MACOS/Mac VS-Code Hot-Keys.md",
     "MACOS/Mac Hot-Keys For Certain Functions.md",

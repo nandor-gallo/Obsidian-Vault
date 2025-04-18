@@ -34,7 +34,7 @@ To get started with the notes, you need to:
     
     CopyEdit
     
-    `git clone https://github.com/yourusername/Obsidian-Vault.git`
+    `git clone https://github.com/nandor-gallo/Obsidian-Vault.git
     
 2. Open the repository in Obsidian to view and edit the notes.
     
